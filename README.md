@@ -25,7 +25,7 @@ To create a 3D model from given orthographic projection.
 
 ![image](https://user-images.githubusercontent.com/113594316/198823390-0832a221-257e-439f-99b4-1a8beca74b56.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+6.	After finishing the sketch use finish sketch option to finalize the sketch..
 
 ![image](https://user-images.githubusercontent.com/113594316/198823401-1b79c82e-7665-4874-8135-52cbce3bb50d.png)
 
